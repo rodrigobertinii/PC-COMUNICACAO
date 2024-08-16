@@ -6,5 +6,7 @@ Foi desenvolvido um projeto para a empresa de marketing PC Comunicação, que in
 3.	Relação entre colaborador e tempo dedicado ao cliente.
 Para implementar essas funcionalidades, foram elaborados um formulário e três abas adicionais no arquivo: "Análise dos Resultados", "Métricas" e "Dados (Formulário)".
 
-* Os dados reais foram substituídos por dados fictícios.
+
 ![image](https://github.com/user-attachments/assets/1fc95047-12be-4e82-a750-6b3e159efeb3)
+
+* Os dados reais foram substituídos por dados fictícios.

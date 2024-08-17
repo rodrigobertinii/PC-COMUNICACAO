@@ -155,14 +155,16 @@ Criei uma aba dedicada à análise dos resultados, onde os dados do formulário 
 Com base na aba de análise de resultados, desenvolvi três indicadores principais:
 
 - Tempo total gasto por cada funcionário
-![image](https://github.com/user-attachments/assets/7105cfea-73d7-4802-bead-6e5bd20d2386)
+
+![image](https://github.com/user-attachments/assets/2dc97cb7-e2f3-4a45-aa57-567abcb347da)
 
 - Custo operacional por cliente
-![image](https://github.com/user-attachments/assets/6893cf57-2c81-481d-b5a9-1fe1a98d578e)
+- 
+![image](https://github.com/user-attachments/assets/1d89dc85-6ab8-436b-b192-bf954d80759b)
 
 - Relação entre colaborador e tempo dedicado ao cliente
-![image](https://github.com/user-attachments/assets/7c1fb34c-6521-49e8-a9b0-6a1bbaaa095b)
-
+- 
+![image](https://github.com/user-attachments/assets/1922f137-8dd8-44c9-96b4-914b07ff2ba3)
 
 ## 6. Interface de Usuário
 Finalmente, criei uma aba principal que limita o acesso dos colaboradores apenas ao formulário (em cor laranja) e fornece aos gestores acesso aos dados e métricas (em cor verde).
